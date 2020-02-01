@@ -30,7 +30,7 @@ Notice how the word "the" does not appear in the word search at all. You simply 
 
 Here are some examples:
 
-!(https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/kayak.png)
-!(https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/bonobo.png)
-!(https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/mississippi.png)
-!(https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/the2.png)
+![kayak](https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/kayak.png)
+![bonobo](https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/bonobo.png)
+![mississippi](https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/mississippi.png)
+![the2](https://raw.githubusercontent.com/cnlohr/terriblewordsearch/master/the2.png)
